@@ -1,0 +1,3 @@
+$digit = EK | DON | TEEN | CHAAR | PAACH | SAHAA | SAAT | AATH | NAUU | SHOONYA;
+
+( SENT-START $digit $digit $digit $digit $digit $digit $digit SENT-END )

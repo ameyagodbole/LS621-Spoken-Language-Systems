@@ -1,0 +1,8 @@
+====================== HTK Results Analysis =======================
+  Date: Sun Feb 25 12:20:55 2018
+  Ref : label_files/allprompts.mlf
+  Rec : results/recout_test2_exp2.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=70.00 [H=14, S=6, N=20]
+WORD: %Corr=95.71, Acc=95.71 [H=134, D=0, S=6, I=0, N=140]
+===================================================================

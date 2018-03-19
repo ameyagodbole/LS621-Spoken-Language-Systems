@@ -6,3 +6,6 @@ Course assignments for LS621 (IIT Guwahati, Jan-May 2018)
 
 Use DTW for word recognition (limited dictionary of 10 words) and demonstrate construction of a composite reference template
 
+## Midsem Project: HMM-based digit sequence recognition
+
+Demonstrate digit sequence recognition in **Marathi** using the **HTK toolkit**
