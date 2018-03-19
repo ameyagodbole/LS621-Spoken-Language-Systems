@@ -1,0 +1,22 @@
+FILE INFO:
+
+sound_files/
+	3 utterances each of 10 words spoken with slight variation
+
+dtw.py
+	Function to perform DTW
+
+DTW.ipynb
+	IPython notebook for interactive execution of the experiment (does not use cepstral mean normalisation for DTW)
+
+DTW-cmn.ipynb
+	IPython notebook for interactive execution of the experiment (uses cepstral mean normalisation for DTW)
+
+mfcc.py
+	Utilities for extracting the MFCC coefficients of sound files
+
+README.md
+	Brief algorithm description and results
+
+*.pyc
+	IGNORE (intermediate files generated while running the IPython notebooks)
