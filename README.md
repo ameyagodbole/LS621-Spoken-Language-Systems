@@ -9,3 +9,7 @@ Use DTW for word recognition (limited dictionary of 10 words) and demonstrate co
 ## Midsem Project: HMM-based digit sequence recognition
 
 Demonstrate digit sequence recognition in **Marathi** using the **HTK toolkit**
+
+## Endsem Project: Wavenet TTS
+
+Implement the Wavenet architecture for Text-To-Speech

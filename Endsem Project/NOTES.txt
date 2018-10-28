@@ -1,0 +1,6 @@
+WAV frequency:	16kHz
+F0 prediction:	200 Hz
+
+label convention:
+x == silence at start and end
+pau == pause between words
